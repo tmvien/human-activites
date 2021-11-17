@@ -4,10 +4,6 @@ My Vien (mvien27@gmail.com)
 
 Nov 16th, 2021
 
-[Analysis Report](https://drive.google.com/open?id=1yRHq5az0IVvgjua4vYC9QhZMcF_5ndWl)
-
-[R Code](https://drive.google.com/open?id=1hnQoRyjMFT54xps70zTOM7orCEPhdB0L)
-
 ## Summary
 
 Please refer to the analysis report and R code as above.
